@@ -1,0 +1,28 @@
+name: CipherSense
+favicon: null
+layout_spectrum: 0.14100422500632703
+typography_spectrum: 0.11018160218372941
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.37607668433338404
+  lightness: 0.5384323475882411
+  saturation: 0.8454713684041053
+  rhythmicContrast: 0.7736118568573147
+purpose: []
