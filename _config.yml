@@ -2,6 +2,7 @@ name: CipherSense
 favicon: null
 layout_spectrum: 0.14100422500632703
 typography_spectrum: 0.11018160218372941
+title: CipherSense
 cta:
   domain: null
   bucket: null
